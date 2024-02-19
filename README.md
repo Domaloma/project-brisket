@@ -30,6 +30,4 @@ This project is meant to give the Guilty Gear Strive community a way of visually
 ![image.png](https://cdn.discordapp.com/attachments/1042453498366791680/1062128967139733565/image.png)
 ![image.png](https://cdn.discordapp.com/attachments/1042453498366791680/1062129150648918088/image.png)
 
-Current plan is to only display moves for Bridget. If the reception is great for this, I will consider adding more characters, but this is more for me (a Bridget main)
-
-If anyone wants to take this code and apply it for other characters that's cool too! Just make sure to credit me in there!
+Original Source Code belongs to [Aishyuu's Project Brisket repo](https://github.com/aishyuu/project-brisket), please check it out!
